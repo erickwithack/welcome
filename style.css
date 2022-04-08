@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+}
+
+h1 {
+  color: red;
+  font-size: 30px;
+}
